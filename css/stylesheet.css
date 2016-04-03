@@ -50,10 +50,10 @@ body {
 }
 
 #border2 {
-    width: 1200px;
-    height: 700px;
-    border-left-width: 10px;
-    border-right-width: 10px;  
+    width: 970px;
+    height: 600px;
+    border-left-width: 20px;
+    border-right-width: 20px;  
     border-top-width: 10px;
     border-bottom-width: 10px;
     border-color: white;

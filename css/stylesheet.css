@@ -50,7 +50,7 @@ body {
 }
 
 #border2 {
-    width: 1000px;
+    width: 970px;
     height: 600px;
     border-left-width: 10px;
     border-right-width: 10px;  
@@ -141,7 +141,7 @@ whitetxt {
 
 #cf4a {
   position:relative;
-  height:600px;
+  height:700px;
   width:1000px;
   margin:0 auto;
 }
